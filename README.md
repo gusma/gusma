@@ -10,6 +10,6 @@ Got anything to say? Drop me a line at [hola@gustavomalamud.com.ar](mailto:hola@
 
 ## Inspiration ##
 
-For life? Just quote the late Warren Zevon:
+For life? Just quote the late (and great) Warren Zevon:
 
 > "Enjoy every sandwich"
