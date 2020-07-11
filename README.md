@@ -2,7 +2,7 @@
 
 # Hi, I'm Gustavo #
 
-I'm currently a Web UI Developer for Globant, currently based in Buenos Aires, Argentina. I have started developing websites and apps recently (1yr ago). I'm currently learning React and Node. I also have delved into DevOps, specializing in CI/CD implementation and management, as well as for deployment in cloud providers. Argentine/israeli, he/him, jew/atheist. Black humor jokes are always welcome.
+I'm currently a Web UI Developer for Globant, currently based in Buenos Aires, Argentina. I have started developing websites and apps recently (1yr ago). I'm currently learning React and Node. I also have delved into DevOps, specializing in CI/CD implementation and management, as well as for deployment in cloud providers :cloud:. Argentine/israeli, he/him, jew/atheist. Black humor jokes are always welcome.
 
 ## Contact ##
 
