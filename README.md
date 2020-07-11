@@ -1,8 +1,8 @@
 ![this is fine](https://res.cloudinary.com/gusma/image/upload/v1594480067/this-is-fine-4_dye9jt.gif)
 
-# Hi #
+# Hi, I'm Gustavo #
 
-I'm Gustavo. I'm currently a Web UI Developer for Globant, currently based in Buenos Aires, Argentina. I have started developing websites and apps recently (1yr ago)
+I'm currently a Web UI Developer for Globant, currently based in Buenos Aires, Argentina. I have started developing websites and apps recently (1yr ago)
 
 ## Contact ##
 
